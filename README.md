@@ -5,4 +5,4 @@ With zoonotic diseases growing as a public health concern alongside a warming cl
 <p>1. Analyzing this alongside more granular public health data (e.g. including demographics).</p>
 <p>2. Analyzing different geographic areas, especially major cities that report high temperatures.</p>
 <p>3. Comparing this to other zoonotic diseases (anthrax, West Nile virus, etc.).</p>
-<p><i>Note: This project was originally completed in Google Colab.</i></p>
+<p><i>Note: Data was retrieved from Environment and Climate Change Canada and Public Health Ontario. This project was originally completed in Google Colab.</i></p>
